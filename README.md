@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  
 
-- 🔭 I’m currently working on Bilet Sayfasi
+- 🔭I'm studying at Celal Bayar Üniversitesi / **Software Engineering**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular** and **Firebase**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

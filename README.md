@@ -65,8 +65,4 @@
 
 <br />
 
-## Github Views
 
-<div align="left">
-![Profile views counter](https://komarev.com/ghpvc/?username=NecimDurmaz&&style=flat-square)  
-</div>

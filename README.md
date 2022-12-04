@@ -26,7 +26,7 @@
  <br/>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
     <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-    <a  target="_blank"><img style="margin: 10px;background-color:white;" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MsSql" height="50" /></a>  
+    <a  target="_blank"><img style="margin: 10px;background-color:white;" src="https://symbols.getvecta.com/stencil_27/79_sql-database-generic.494ff6320e.svg" alt="MsSql" height="50" /></a>  
     </div>
     
   

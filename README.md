@@ -30,14 +30,12 @@
     
   
 
- <div>  
+ 
     
 <h3 align="left">My Skill Set:</h3>
-<p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=necimdurmaz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="necimdurmaz" /></p>
+
 
 
 <p style="width:100%"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=necimdurmaz&&theme=tokyonight" alt="rishavchanda" /></p>
  <p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api?username=necimdurmaz&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
-
-    </div>
-
+ <p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=necimdurmaz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="necimdurmaz" /></p>

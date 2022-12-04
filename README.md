@@ -5,7 +5,7 @@
  
 - 👨‍🎓I'm studying at **Manisa Celal Bayar Üniversitesi** / **Software Engineering**
 
-- 📖 I’m currently learning **Angular** and **Firebase**
+- 👨🏻‍💻 I’m currently learning **Angular** and **Firebase**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

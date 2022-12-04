@@ -1,9 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Necim Durmaz</h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://pin.it/1p84WmF">
  
-
 - 🔭I'm studying at Celal Bayar Üniversitesi / **Software Engineering**
 
 - 🌱 I’m currently learning **Angular** and **Firebase**

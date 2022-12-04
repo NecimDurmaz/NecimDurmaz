@@ -36,8 +36,8 @@
 
 <h3 align="left">My Skill Set:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=necimdurmaz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="necimdurmaz" /></p>
-<br/>
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=necimdurmaz&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
-<br/>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=necimdurmaz&&theme=tokyonight" alt="rishavchanda" /></p>
 

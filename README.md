@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Necim Durmaz</h1>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/88/6f/da/886fda84cd2014e7e59a1a5521fe1414.jpg">

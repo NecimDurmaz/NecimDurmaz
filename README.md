@@ -5,7 +5,7 @@
  
 - 🧑‍💼 Jr Software Developer at **Talya Bilisim**
 
-- 👨‍🎓I'm studying at **Manisa Celal Bayar Üniversitesi** / **Software Engineering**
+- 👨‍🎓 I'm studying at **Manisa Celal Bayar Üniversitesi** / **Software Engineering**
 
 - 👨🏻‍💻 I’m currently learning **Angular** and **Firebase** 
 

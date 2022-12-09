@@ -1,9 +1,11 @@
+
 <h1 align="center">Hi 👋, I'm Necim Durmaz</h1>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/88/6f/da/886fda84cd2014e7e59a1a5521fe1414.jpg">
  
--👨‍🎓 I'm studying at **Manisa Celal Bayar Üniversitesi** / **Software Engineering**
--👨🏻‍💻 I’m currently learning **Angular** and **Firebase**
+- 🔭I'm studying at **Manisa Celal Bayar Üniversitesi** / **Software Engineering**
+
+- 🌱 I’m currently learning **Angular** and **Firebase**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,3 +40,4 @@
 <p style="width:100%"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=necimdurmaz&&theme=tokyonight" alt="rishavchanda" /></p>
  <p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api?username=necimdurmaz&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
  <p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=necimdurmaz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="necimdurmaz" /></p>
+1

@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/88/6f/da/886fda84cd2014e7e59a1a5521fe1414.jpg">
  
-- 🔭I'm studying at **Manisa Celal Bayar Üniversitesi** / **Software Engineering**
-
 - 🧑‍💼 Jr Software Developer at **Talya Bilisim**
+
+- 👨‍🎓I'm studying at **Manisa Celal Bayar Üniversitesi** / **Software Engineering**
 
 - 👨🏻‍💻 I’m currently learning **Angular** and **Firebase** 
 

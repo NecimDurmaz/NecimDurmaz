@@ -8,7 +8,7 @@
 
 - 👨‍🎓 I'm studying at **Manisa Celal Bayar Üniversitesi** / **Software Engineering**
 
-- 👨🏻‍💻 I’m currently learning **Angular** 
+- 👨🏻‍💻 I’m currently learning **Angular**  and **Next.js** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

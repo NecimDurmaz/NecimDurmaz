@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://r.resimlink.com/zEwtrOiukb1C.jpg?v=1028243aed6c69f47512cc6669bda262">
  
  
-- 🧑‍💼 Jr Software Developer at **Talya Bilisim**
+- 🧑‍💼 Software Developer at **Talya Bilisim**
 
 - 👨‍🎓 I'm studying at **Manisa Celal Bayar Üniversitesi** / **Software Engineering**
 

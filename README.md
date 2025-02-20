@@ -21,25 +21,6 @@
 
 ## **🛠️ Tech Stack**
 
-### <p align="center">**Frontend**</p>
-<p align="center">
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
- <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  </a>
-</p>
-
 ### <p align="center">**Styling**</p>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
@@ -56,6 +37,33 @@
   </a> 
 </p>
 
+### <p align="center">**Frontend**</p>
+<p align="center">
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+
+</p>
+
+
+### <p align="center">**Frontend & Backend**</p>
+<p align="center">
+
+ <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+</p>
+
+
 ### <p align="center">**Backend**</p>
 <p align="center">
   <a href="https://expressjs.com/" target="_blank">
@@ -64,12 +72,7 @@
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   </a>
- <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  </a>
+
 </p>
 
 ### <p align="center">**Databases**</p>
@@ -96,9 +99,7 @@
   <a href="https://www.notion.so/" target="_blank">
     <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
-  <a href="https://figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  </a>
+ 
   <a href="https://www.atlassian.com/software/jira" target="_blank">
     <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira" />
   </a>

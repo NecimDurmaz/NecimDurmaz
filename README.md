@@ -10,7 +10,7 @@
 
 ## **🚀 About Me**
 - 🏢 Working as a Frontend Developer with 3+ years of experience in a Cloud Hotel Mangement company.
-- 💻 Passionate about Front-end Development, UI/UX and Creative Web Apps
+- 💻 Passionate about designing extendable and generic structures.
 - 👨🏻‍💻 I’m currently learning Angular and Next.js
 - 👨‍🎓 I'm studying at Manisa Celal Bayar Üniversitesi / Software Engineering
 

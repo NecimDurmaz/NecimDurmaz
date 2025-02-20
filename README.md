@@ -4,6 +4,7 @@
   <tr>
     <td>
       <h1>🚀 Hey there, I'm Necim! 👋</h1>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F6F7&background=00FF9A00&width=435&lines=Angular+%7C+Next.js;Software+Developer" alt="Typing SVG" />
       <p>
         - 🏢 Working as a Frontend Developer with 3+ years of experience in a Cloud Hotel Management company.<br>
         - 💻 Passionate about designing scalable and reusable architectures.<br>

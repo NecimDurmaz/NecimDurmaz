@@ -1,22 +1,26 @@
 <!-- Giriş -->
- <img align="right" alt="Coding" width="99999" src="https://r.resimlink.com/zEwtrOiukb1C.jpg?v=1028243aed6c69f47512cc6669bda262">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
+<img align="right" alt="Coding" width="9900" height="600" src="https://r.resimlink.com/zEwtrOiukb1C.jpg?v=1028243aed6c69f47512cc6669bda262">
+&nbsp;&nbsp;
 <h1 align="center">🚀 Hey there, I'm Necim! 👋</h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F6F7&background=00FF9A00&width=350&lines=Angular+%7C+Next.js;Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F6F7&background=00FF9A00&width=350&lines=Angular+%7C+Next.js;Software+Developer" alt="Typing SVG" />
+</p>
 
 ---
 
 ## **🚀 About Me**
-- 🏢 Working as a Frontend Developer with 3+ years of experience in a Cloud Hotel Mangement company.
-- 💻 Passionate about designing extendable and generic structures.
-- 👨🏻‍💻 I’m currently learning Angular and Next.js
-- 👨‍🎓 I'm studying at Manisa Celal Bayar Üniversitesi / Software Engineering
+- 🏢 Working as a Frontend Developer with 3+ years of experience in a Cloud Hotel Management company.
+- 💻 Passionate about designing scalable and reusable architectures.
+- 👨🏻‍💻 Currently enhancing my skills in Angular and Next.js.
+- 🎓 Studying Software Engineering at **Manisa Celal Bayar University**.
 
 ---
-   
+
 ## **🛠️ Tech Stack**
+
+### <p align="center">**Frontend**</p>
 <p align="center">
   <a href="https://angular.io/" target="_blank">
     <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -24,22 +28,6 @@
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   </a>
-  
-</p>
-
-&nbsp;
-<p align="center">
- 
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  </a>
-</p>
-&nbsp;
-
-<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </a>
@@ -50,10 +38,9 @@
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
 </p>
-&nbsp;
 
+### <p align="center">**Styling**</p>
 <p align="center">
-   
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </a>
@@ -68,8 +55,23 @@
   </a> 
 </p>
 
-&nbsp;
+### <p align="center">**Backend**</p>
+<p align="center">
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  </a>
+ <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+</p>
 
+### <p align="center">**Databases**</p>
 <p align="center">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://img.shields.io/badge/-MSSQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white" />
@@ -82,8 +84,7 @@
   </a>
 </p>
 
-&nbsp;
-
+### <p align="center">**Tools & Platforms**</p>
 <p align="center">
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -94,14 +95,13 @@
   <a href="https://www.notion.so/" target="_blank">
     <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
-   <a href="https://www.atlassian.com/software/jira" target="_blank">
+  <a href="https://figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
     <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira" />
   </a>
 </p>
-
-
-
-
 
 ---
 
@@ -115,7 +115,7 @@
 
 ## **🔥 GitHub Contributions**
 <p align="center">
- <img style="width:100%" src="./snake.svg" />
+  <img style="width:100%" src="./snake.svg" />
 </p>
 
 ---
@@ -123,10 +123,10 @@
 ## **💼 Let's Connect!**
 <p align="center">
   <a href="https://www.linkedin.com/in/necimdurmaz/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=lerna&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:durmaznecim@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=mailboxdotorg&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/necimdurmaz">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
